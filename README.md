@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Pooja 👋
 
-<!--
-**ipoojamittal/ipoojamittal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer building full-stack web applications with TypeScript, React, and Node.js. I enjoy turning complex workflows into useful, well-structured products.
 
-Here are some ideas to get you started:
+## Featured projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [EasyHotel](https://github.com/ipoojamittal/EasyHotelFrontend)
+A hotel booking and management platform with customer booking flows and role-based operations dashboards.
+
+- **Frontend:** Next.js, React, TypeScript, TanStack Query, Zustand
+- **Backend:** Node.js, Express, TypeScript, MongoDB
+- [Frontend repository](https://github.com/ipoojamittal/EasyHotelFrontend) · [Backend repository](https://github.com/ipoojamittal/EasyHotelBackend)
+
+### [Bookfolio](https://github.com/ipoojamittal/Bookfolio)
+An interactive, book-inspired developer portfolio built with modern web technologies.
+
+## Technologies
+
+**Languages:** TypeScript, JavaScript, Java  
+**Frontend:** React, Next.js, Tailwind CSS  
+**Backend:** Node.js, Express  
+**Data:** MongoDB
+
+## Get in touch
+
+- GitHub: [@ipoojamittal](https://github.com/ipoojamittal)
+- LinkedIn: https://www.linkedin.com/in/ipoojamittal/
+- Email: official.poojamittal@gmail.com
